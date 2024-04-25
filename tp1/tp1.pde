@@ -1,3 +1,5 @@
+// bianca de rito
+// comision 2
 PImage paisaje;
 //
 void setup(){
